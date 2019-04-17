@@ -80,6 +80,10 @@ a {
     height: 10px
 }
 
+.h-20 {
+    height: 20px
+}
+
 .color {
     color: #ffbf00;
     font-size: 11px;
