@@ -913,8 +913,8 @@ footer img {
 .top-bar {
     color: #333;
     padding: 100px 0 100px;
-    background: -webkit-linear-gradient( #ffe60093, #000000a1), url(../img/01.jpg);
-    background: linear-gradient( #ffe60093, rgba(29, 29, 29, 0.8)), url(../img/01.jpg);
+    background: -webkit-linear-gradient( #000000b6, #000000a1), url(../img/01parallax.png);
+    background: linear-gradient( #000000b6, rgba(29, 29, 29, 0.8)), url(../img/01parallax.png);
     background-size: cover;
     background-attachment: fixed;
     background-position: center center;
@@ -1184,4 +1184,9 @@ body {
         font-size: 30px;
         line-height: 30px;
     }
+}
+
+video {
+    max-width: 100%;
+    height: auto;
 }
