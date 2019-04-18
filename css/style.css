@@ -117,7 +117,7 @@ h5 {
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: #ffbf00;
+    background-color: #000000;
     /* change if the mask should be a color other than white */
     z-index: 1000;
     /* makes sure it stays on top */
