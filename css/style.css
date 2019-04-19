@@ -97,6 +97,32 @@ a {
     font-size: 11px;
 }
 
+/* width */
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+border-radius: 2px
+}
+
+/* Track on hover*/
+::-webkit-scrollbar-track:hover {
+    background: #ffffff0a;
+    border-radius: 2px
+    }
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+background: #ffbf00a9;
+border-radius: 2px
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+background: #ffbf00;
+}
 
 /* typography
 ==================================================*/
