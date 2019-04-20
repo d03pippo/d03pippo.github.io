@@ -263,6 +263,12 @@ h5 {
     transform: translate3d(0, 100%, 0);
 }
 
+.box-header.menu-is-open.is-visible {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+}
+
+
 .box-header.menu-is-open {
     background-color: rgba(0, 0, 0, 0);
     position: fixed;
