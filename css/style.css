@@ -265,6 +265,8 @@ h5 {
 
 .box-header.menu-is-open {
     background-color: rgba(0, 0, 0, 0);
+    position: fixed;
+    top: 0px;
 }
 
 .box-logo {
