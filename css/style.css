@@ -1232,3 +1232,13 @@ video {
     max-width: 100%;
     height: auto;
 }
+
+.img-career-double {
+    max-width: 100%;
+    height: auto;
+}
+
+.img-career-solo {
+    max-width: 50%;
+    height: auto;
+}
