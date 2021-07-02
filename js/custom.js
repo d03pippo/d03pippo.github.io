@@ -6,8 +6,7 @@ $(window).load(function () {
     $('body').delay(550).css({
         'overflow': 'visible'
     });
-
-
+	
     //  isotope
     var $container = $('.portfolio_container');
     $container.isotope({
@@ -28,7 +27,7 @@ $(window).load(function () {
         });
         return false;
     });
-
+	
     // back to top
     var offset = 300,
         offset_opacity = 1200,
